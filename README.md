@@ -4,7 +4,10 @@
 - **Group Name**: SWP Incoming
 - **Project Subject**: Cosmetics Store
 - **Group Members**:
-  +Nguyễn Trí Hoàng Thân **MSSV**:SE183895
+  - Member 1: [Name]
+  - Member 2: [Name]
+  - Member 3: [Name]
+  - Member 4: [Name]
 
 ## 1. GUI
 
