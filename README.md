@@ -5,8 +5,8 @@
 - **Project Subject**: Cosmetics Store
 - **Group Members**:
   - Nguyễn Trí Hoàng Thân - SE183895
-  - Member 2: [Name]
-  - Member 3: [Name]
+  - Vũ Dức Mạnh - SE184935
+  - Trần Trung Nguyên - SE184993
 
 ## 1. GUI
 
