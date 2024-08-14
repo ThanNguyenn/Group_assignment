@@ -7,4 +7,6 @@
 ![Login_Page](/images/Login.png)
 ![Checkout_Page](/images/Checkout.png)
 ### Sitemap
+![Sitemap](/images/Sitemap.png)
 ## 2.Database Model
+![Database](/images/DB_Model.png)
