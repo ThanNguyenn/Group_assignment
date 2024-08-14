@@ -4,10 +4,9 @@
 - **Group Name**: SWP Incoming
 - **Project Subject**: Cosmetics Store
 - **Group Members**:
-  - Member 1: [Name]
+  - Nguyễn Trí Hoàng Thân
   - Member 2: [Name]
   - Member 3: [Name]
-  - Member 4: [Name]
 
 ## 1. GUI
 
