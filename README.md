@@ -27,3 +27,6 @@
 
 ## 2. Database Model
 ![Database](/images/DB_Model.png)
+## 3. System design
+
+## 4. Conclusion and Discussion
