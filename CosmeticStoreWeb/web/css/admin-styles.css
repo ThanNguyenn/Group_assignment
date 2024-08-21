@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: #f8f9fa; /* Set your desired body background color */
+}
+
+.content {
+    flex: 1;
+}
+
+.search-bar {
+    display: flex;
+    justify-content: center;
+}
+
+.footer {
+    background-color: #343a40; /* Dark background color for the footer */
+    color: white;
+    padding: 1rem 0;
+}
