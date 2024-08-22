@@ -89,3 +89,4 @@ Test the application to ensure all functions work as expected. Ensure the securi
 
 ### 3. What We Would Improve in Our Application in the Future
 - Expanding the product range to include more brands and categories will attract a wider customer base.
+- Improving the interface and adding necessary functions.
